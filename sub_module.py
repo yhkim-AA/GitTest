@@ -3,3 +3,4 @@ def sub_test():
 
 if __name__ == '__main__':
     sub_test()
+    print('submodule print구문')
